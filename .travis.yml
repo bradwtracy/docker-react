@@ -13,7 +13,7 @@ deploy:
   region: "us-east-2"
   app: "btracy_docker-react"
   env: "BtracyDockerReact-env"
-  bucket_name: "elasticbeanstalk-us-east-2-660694857359"
+  bucket_name: "/elasticbeanstalk-us-east-2-040698126140"
   bucket_path: "btracy_docker-react"
   on:
     branch: master
